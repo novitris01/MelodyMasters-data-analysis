@@ -1,4 +1,4 @@
-# Music-streaming-service-analysis
+# Melodymasters analysis
 
 Welcome to MelodyMasters, a leading digital music streaming platform that provides a wide range of music genres to music enthusiasts worldwide. With a vast library of tracks and sub-genres, MelodyMasters aims to offer a personalized and enjoyable music experience to its users.
 
